@@ -1,0 +1,69 @@
+---
+title: "30538 Problem Set 2: Parking Tickets"
+author: "you"
+date: "the date"
+format: 
+    pdf: 
+        include-in-header:
+            text: |
+                \usepackage{fvextra}
+                \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+---
+
+1. "This submission is my work alone and complies with the 30538 integrity
+policy." Add your initials to indicate your agreement: \*\*\_\_\*\*
+2. "I have uploaded the names of anyone I worked with on the problem set **[here](https://docs.google.com/forms/d/1-zzHx762odGlpVWtgdIC55vqF-j3gqdAp6Pno1rIGK0/edit)**"  \*\*\_\_\*\* (1 point)
+3. Late coins used this pset: \*\*\_\_*\* Late coins left after submission: \*\*\_\_*\*
+4. Knit your `ps2.qmd` to make `ps2.pdf`. 
+    * The PDF should not be more than 25 pages. Use `head()` and re-size figures when appropriate. 
+5. Push  `ps2.qmd` and `ps2.pdf` to your github repo. It is fine to use Github Desktop.
+6. Submit `ps2.pdf` via Gradescope (4 points) 
+7. Tag your submission in Gradescope
+
+```{python}
+import pandas as pd
+import altair as alt
+alt.renderers.enable("png")
+import time
+
+import warnings 
+warnings.filterwarnings('ignore')
+```
+
+## Data cleaning continued (15 points)
+
+1.  
+2.      
+3.  
+4. 
+
+## Revenue increase from "missing city sticker" tickets (20 Points)
+
+1.
+2. 
+3. 
+4.
+5.
+6.
+
+## Headlines and sub-messages (20 points)
+
+1. 
+2. 
+3. 
+
+## Understanding the structure of the data and summarizing it (Lecture 5, 20 Points)
+
+1. 
+2.
+3.
+
+## Multi-view Composition (15 Points)
+
+1. 
+2. 
+
+## Extra Credit (max 5 points)
+
+1. 
+2. 
